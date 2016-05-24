@@ -1,19 +1,16 @@
 {
-    "name": "axel/mvc-bms",
-    "require": {
-        "twbs/bootstrap": "^3.3",
-        "components/jquery": "^2.2"
-    },
-    "authors": [
-        {
-            "name": "Axel",
-            "email": "axel.tonson@hetic.net"
-        }
-    ],
-    "autoload": {
-        "psr-4": {
-            "Controller\\": "controller/",
-            "Model\\": "model/"
-        }
+  "name": "hetic/cmsg1",
+  "authors": [
+    {
+      "name": "Ikimasoft",
+      "email": "yann@ikimasoft.fr"
     }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Controller\\": "controller/",
+      "Model\\": "model/"
+    }
+  }
 }
